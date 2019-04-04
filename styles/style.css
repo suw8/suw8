@@ -93,6 +93,7 @@ body{
     width:1080px;
     height:600px;
     background:url(../images/main_bg.jpg) no-repeat;
+    background-position:center;
     margin:0 auto;
     text-align:center;
     color:white;
