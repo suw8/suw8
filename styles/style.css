@@ -108,7 +108,6 @@ body{
 }
 #about #aboutmenu{
     width:1080px;
-    height:100px;
     margin:0 auto;
 }
 #about #aboutmenu ul{
@@ -127,8 +126,8 @@ body{
 }
 #about #aboutcontent{
     width:1080px;
-    height:500px;
     margin:0 auto;
+    padding-bottom:100px;
 }
 #about #aboutcontent #td1{
     width:260px;
@@ -159,13 +158,13 @@ body{
 #work .maintitle{color:white;}
 #work{
     width:100%;
-    height:960px;
     background-color:#faaf54;
 }
 #work table{
     width:1080px;
     border-spacing:10px;
     margin:0 auto;
+    padding-bottom:100px;
 }
 #work table td{
     width:540px;
